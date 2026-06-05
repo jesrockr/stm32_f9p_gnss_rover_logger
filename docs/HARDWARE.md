@@ -11,6 +11,7 @@
 - RTK correction radio/link
 
 ## Wiring
+<img src="../assets/ROVERWIRINGDIAGRAM.png" alt="ROVER wiring diagram" width="700">
 
 | Function | STM32 | External device |
 |---|---:|---|
