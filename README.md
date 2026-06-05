@@ -29,7 +29,6 @@ This rover is designed to work with the matching STM32 F9P base logger:
 ```text
 Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
 ```
-See companion repo:
 
 
 (https://github.com/jesrockr/stm32_f9p_gnss_base_logger)
