@@ -164,5 +164,5 @@ For survey-grade collection, treat `carrier=2` as the target state.
 - [Hardware wiring](docs/HARDWARE.md)
 - [F9P rover configuration](docs/F9P_ROVER_CONFIGURATION.md)
 - [Build and flash](docs/BUILD_AND_FLASH.md)
-- [Relationship to base logger](docs/BASE_AND_ROVER.md)
+
 
