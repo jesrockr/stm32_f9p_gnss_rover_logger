@@ -29,11 +29,10 @@ This rover is designed to work with the matching STM32 F9P base logger:
 ```text
 Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
 ```
-
-Add the base repository link here after publishing:
+See companion repo:
 
 ```text
-Companion base project: https://github.com/YOUR_USERNAME/YOUR_BASE_REPO
+https://github.com/jesrockr/stm32_f9p_gnss_base_logger
 ```
 
 ## Hardware
