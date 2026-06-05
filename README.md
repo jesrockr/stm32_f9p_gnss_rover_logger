@@ -21,6 +21,7 @@ This project is the rover companion to the STM32 F9P base logger: [stm32_f9p_gns
 - Displays status on a 128x64 SSD1306 OLED
 
 <img src="assets/sdcard.png" alt="SD card" width="600">
+
 ## Companion Base Firmware
 
 This rover is designed to work with the matching STM32 F9P base logger:
