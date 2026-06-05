@@ -20,6 +20,7 @@ This project is the rover companion to the STM32 F9P base logger: [stm32_f9p_gns
 - Applies rod-height correction from `ROD.TXT`
 - Displays status on a 128x64 SSD1306 OLED
 
+<img src="assets/sdcard.jpg" alt="SD card" width="200">
 ## Companion Base Firmware
 
 This rover is designed to work with the matching STM32 F9P base logger:
