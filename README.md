@@ -31,9 +31,9 @@ Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
 ```
 See companion repo:
 
-```text
-https://github.com/jesrockr/stm32_f9p_gnss_base_logger
-```
+
+(https://github.com/jesrockr/stm32_f9p_gnss_base_logger)
+
 
 ## Hardware
 
