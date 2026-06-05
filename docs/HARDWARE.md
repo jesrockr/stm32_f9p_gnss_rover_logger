@@ -8,7 +8,7 @@
 - HC-05 Bluetooth serial module
 - microSD card
 - Momentary pushbutton
-- RTK correction radio/link
+- RTK correction radio/link (Holybro Sik Telemetry radio 100mW)
 
 ## Wiring
 <img src="../assets/ROVERWIRINGDIAGRAM.png" alt="ROVER wiring diagram" width="700">
