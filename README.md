@@ -2,7 +2,7 @@
 
 Low-cost STM32 + ZED-F9P rover firmware for RTK field point collection, backup UBX logging, Bluetooth NMEA pass-through, and CSV point averaging.
 
-This project is the rover companion to the STM32 F9P base logger. The base provides RTCM corrections; this rover receives corrected GNSS data, forwards NMEA to SW Maps over Bluetooth, logs raw UBX data to SD, and stores averaged points with rod-height correction.
+This project is the rover companion to the STM32 F9P base logger. [stm32_f9p_gnss_base_logger](https://github.com/jesrockr/stm32_f9p_gnss_base_logger) The base provides RTCM corrections; this rover receives corrected GNSS data, forwards NMEA to SW Maps over Bluetooth, logs raw UBX data to SD, and stores averaged points with rod-height correction.
 
 ## What It Does
 
