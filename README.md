@@ -46,6 +46,8 @@ Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
 
 ## Main Wiring
 
+<img src="assets/ROVERWIRINGDIAGRAM.png" alt="Rover wiring diagram" width="600">
+
 | Function | STM32 | External device |
 |---|---:|---|
 | F9P UART TX | `PA10 / USART1 RX` | ZED-F9P UART TX |
