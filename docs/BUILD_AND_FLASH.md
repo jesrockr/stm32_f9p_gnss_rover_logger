@@ -32,7 +32,7 @@ In STM32CubeIDE:
 2. Click the hammer icon, or use `Project` -> `Build Project`.
 3. Confirm the build finishes without errors.
 
-*IMPORTANT: the `BOOT0` jumper pad on the STM32 board must be bridged in order for firmware to be flashed via USB-C in STM32CubeProgrammer. It must be opened to run progrm on STM32. Recommend install of 2 wires or a switch to simplify multiple flashes of board.
+*IMPORTANT: the `BOOT0` jumper pad on the STM32 board must be bridged in order for .ELF firmware build to be flashed via USB-C in STM32CubeProgrammer. It must be opened to run program on STM32. Recommend install of 2 wires or a switch to simplify multiple flashes of board.
 
 ## Flash
 
