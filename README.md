@@ -125,7 +125,7 @@ SAT=18
 3D        UTC=18:24:11
 ```
 
-Point collection:
+Point collection (triggered by momentary switch button):
 
 ```text
 START POINT
