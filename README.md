@@ -150,7 +150,6 @@ Current CSV fields:
 - `carrier=1` means RTK float
 - `carrier=2` means RTK fixed
 
-For survey-grade collection, treat `carrier=2` as the target state.
 
 ## Required Tools
 
