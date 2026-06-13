@@ -37,10 +37,15 @@ Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
 ## Hardware
 
 - STM32F407ZGT6 development board
+  <img src="assets/STM32.AVIF" alt="STM32" width="200"> 
 - u-blox ZED-F9P GNSS receiver
+  <img src="assets/F9P.AVIF" alt="F9P" width="200"> 
 - SSD1306 128x64 I2C OLED
+  <img src="assets/OLED.AVIF" alt="OLED" width="200"> 
 - HC-05 Bluetooth serial module
-- SD card using STM32 SDIO
+  <img src="assets/HC-05.AVIF" alt="HC-05" width="200"> 
+- SD card FAT32
+  <img src="assets/SANDISK.JPG" alt="SANDISK 16GB" width="200"> 
 - Momentary pushbutton
 - RTK correction link, such as SiK radio
 
