@@ -58,11 +58,11 @@ Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
   
 - Momentary pushbutton
 
-  <img src="assets/PUSHBUTTON.AVIF" alt="PUSHBUTTON" width="200"> 
+  <img src="assets/PUSHBUTTON.avif" alt="PUSHBUTTON" width="200"> 
   
 - RTK correction link, such as SiK radio
 
-  <img src="assets/SIK RADIO.AVIF" alt="SIK RADIO" width="200"> 
+  <img src="assets/SIK RADIO.avif" alt="SIK RADIO" width="200"> 
 
 ## Main Wiring
 
