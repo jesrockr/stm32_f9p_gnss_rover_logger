@@ -54,12 +54,15 @@ Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
   
 - SD card FAT32
   
-  <img src="assets/SANDISK.JPG" alt="SANDISK 16GB" width="200">
+  <img src="assets/SANDISK.jpg" alt="SANDISK 16GB" width="200">
   
 - Momentary pushbutton
 
+  <img src="assets/PUSHBUTTON.AVIF" alt="PUSHBUTTON" width="200"> 
   
 - RTK correction link, such as SiK radio
+
+  <img src="assets/SIK RADIO.AVIF" alt="SIK RADIO" width="200"> 
 
 ## Main Wiring
 
