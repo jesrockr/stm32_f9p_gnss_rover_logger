@@ -54,7 +54,7 @@ Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
   
 - SD card FAT32
   
-  <img src="assets/SANDISK.jpg" alt="SANDISK 16GB" width="200">
+  <img src="assets/SANDISK.JPG" alt="SANDISK 16GB" width="200">
   
 - Momentary pushbutton
 
