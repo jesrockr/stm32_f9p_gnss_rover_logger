@@ -119,6 +119,7 @@ point_height_m,point_hmsl_m,fix,carrier,sats,hacc_m,vacc_m
 ```
 
 `point_height_m` and `point_hmsl_m` are corrected by subtracting rod height from the antenna position.
+A stored point's coordinates are automatically averaged from all of it's readings.
 
 ## Expected OLED Flow
 
