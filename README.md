@@ -20,8 +20,7 @@ Rover can be controlled/interfaced with using the companion [Android App](https:
 - Falls back to `NAV-PVT` position data if high-precision messages are not enabled
 - Applies rod-height correction from `ROD.TXT`
 - Displays status on a 128x64 SSD1306 OLED
-
-<img src="assets/sdcard.png" alt="SD card" width="600">
+  
 
 ## Companion Base Firmware
 
