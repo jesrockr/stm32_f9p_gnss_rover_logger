@@ -64,21 +64,6 @@ Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
 
   <img src="assets/SIK RADIO.avif" alt="SIK RADIO" width="200"> 
 
-## Main Wiring
-
-<img src="assets/ROVERWIRINGDIAGRAM.png" alt="Rover wiring diagram" width="600">
-
-| Function | STM32 | External device |
-|---|---:|---|
-| F9P UART TX | `PA10 / USART1 RX` | ZED-F9P UART TX |
-| F9P UART RX | `PA9 / USART1 TX` | ZED-F9P UART RX |
-| OLED SCL | `PB6 / I2C1 SCL` | OLED SCL/SCK |
-| OLED SDA | `PB7 / I2C1 SDA` | OLED SDA |
-| HC-05 RX | `PB10 / USART3 TX` | HC-05 RXD |
-| HC-05 TX | `PB11 / USART3 RX` | HC-05 TXD |
-| Point button | `PE5` | Momentary switch to GND |
-
-The switch is wired between `PE5` and `GND`. The firmware uses the STM32 internal pull-up.
 
 ## Rod Height
 
