@@ -22,17 +22,6 @@ Rover can be controlled/interfaced with using the companion [Android App](https:
 - Appears as a USB Storage device on Windows via STM32 usb type c port
   
 
-## Companion Base Firmware
-
-
-```text
-Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
-```
-
-
-(https://github.com/jesrockr/stm32_f9p_gnss_base_logger)
-
-
 ## Hardware
 
 - STM32F407ZGT6 development board
