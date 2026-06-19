@@ -63,7 +63,7 @@ Create `ROD.TXT` in the SD card root:
 
 The value is meters. On boot, the OLED reminds the user to check the configured rod height.
 
-Rod height correction is applied in .csv output only. If using .ubx for PPK on each point, rod height should be noted and accounted for manually.
+Rod height correction is applied in .csv output only. If using .ubx for PPK on each point, rod height should be noted and accounted for.
 
 If `ROD.TXT` is missing or invalid, firmware defaults to `2.000 m`.
 
