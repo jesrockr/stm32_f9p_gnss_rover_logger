@@ -6,7 +6,6 @@ This project is the rover companion to the STM32 F9P base logger: [stm32_f9p_gns
 
 Rover can be controlled/interfaced with using the companion [Android App](https://github.com/jesrockr/stm32_f9p_rover_Android_companion_app/)
 
-<img src="assets/log.jpg" alt="Log" width="200"> <img src="assets/boot.jpg" alt="Log" width="200"> <img src="assets/rodheight.jpg" alt="Log" width="200"> 
 
 ## What It Does
 
