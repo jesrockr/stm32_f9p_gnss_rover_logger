@@ -24,7 +24,7 @@ Rover can be controlled/interfaced with using the companion [Android App](https:
 
 ## Companion Base Firmware
 
-This rover is designed to work with the matching STM32 F9P base logger:
+This rover is designed to recieve RTCM corrections over radio for `RTK Fix` from the matching STM32 F9P base logger:
 
 ```text
 Base F9P -> RTCM over SiK radio -> Rover F9P -> STM32 rover logger
