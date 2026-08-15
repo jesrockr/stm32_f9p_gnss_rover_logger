@@ -10,6 +10,7 @@ Rover can be controlled/interfaced with using the companion [Android App](https:
 ## What It Does
 
 - Logs the incoming ZED-F9P UART stream to SD card as `.UBX`
+- Receives RTCM corrections over radio from base station 
 - Passes NMEA from the F9P through STM32 `USART3` to an HC-05 Bluetooth module
 - Supports USB communication with the optional Windows Field Console (not released)
 - Lets SW Maps or similar [app](https://github.com/jesrockr/stm32_f9p_rover_Android_companion_app/) receive live rover position over Bluetooth (Android only)
