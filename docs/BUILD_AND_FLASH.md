@@ -59,3 +59,6 @@ Expected behavior:
 6. Button press starts point collection.
 7. Second button press stores the point to CSV.
 
+Normal boot: USB serial/app connection for the Windows field app.
+Hold the point button during boot: exposes USB mass storage mode for SD card file access.
+
