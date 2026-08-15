@@ -28,17 +28,6 @@ https://www.st.com/en/development-tools/stm32-software-development-tools.html
 - Click Start Programming to flash the STM32.
 - Unplug USB
 
-## First Boot Check:
-
- After flashing:
-
-- Insert a FAT-formatted SD card.
-
-- Connect the ZED-F9P UART output to the STM32.
-
-- Power the logger via USB-C.
-
-- Watch the OLED boot sequence.
 
 
 ## SD Card Setup
