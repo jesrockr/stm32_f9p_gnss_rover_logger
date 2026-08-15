@@ -22,8 +22,8 @@ https://www.st.com/en/development-tools/stm32-software-development-tools.html
 
 - Open STM32CubeProgrammer.
 - Connect STM32 board using USB-C or ST-LINK V2.
-- Select USB or ST LINK and hit ⟳ then hit Connect.
-- NOTE: USB only available when BOOT0 jumper pad is bridged.
+- Select `USB` or `ST LINK` and hit `⟳` then hit `Connect`.
+- NOTE: `USB` only available when BOOT0 jumper pad is bridged/soldered on the back of the STM32 board.
 - Find/select the [.ELF](https://github.com/jesrockr/stm32_f9p_gnss_rover_logger/releases/tag/v1.0.0) filepath from the latest release.
 - Click Start Programming to flash the STM32.
 - Unplug USB
