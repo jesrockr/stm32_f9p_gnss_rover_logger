@@ -149,11 +149,9 @@ Current CSV fields:
 
 ## Required Tools
 
-- STM32CubeIDE
-- STM32CubeMX
 - STM32CubeProgrammer
 - u-blox u-center
-- SW Maps on Android
+
 
 ## Documentation
 
