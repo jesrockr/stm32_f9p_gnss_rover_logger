@@ -17,8 +17,28 @@ https://www.st.com/en/development-tools/stm32-software-development-tools.html
 
 *IMPORTANT: the `BOOT0` jumper pad on the STM32 board must be bridged in order for .ELF firmware build to be flashed via USB-C in STM32CubeProgrammer. It must be opened to run program on STM32. Recommend use of ST-LINK V2 to flash firmware.
 
-## Flash
 
+## Flash With STM32CubeProgrammer:
+
+    Open STM32CubeProgrammer.
+    Connect STM32 board using USB-C or ST-LINK V2.
+    Select USB or ST LINK and hit ⟳ then hit Connect.
+    NOTE: USB only available when BOOT0 jumper pad is bridged.
+    Find/select the .ELF filepath from the Debug/ folder.
+    Click Start Programming to flash the STM32.
+    Unplug USB
+
+## First Boot Check:
+
+    After flashing:
+
+    Insert a FAT-formatted SD card.
+
+    Connect the ZED-F9P UART output to the STM32.
+
+    Power the logger via USB-C.
+
+    Watch the OLED boot sequence.
 
 
 ## SD Card Setup
