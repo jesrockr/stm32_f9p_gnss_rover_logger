@@ -4,8 +4,6 @@
 
 Install:
 
-- STM32CubeIDE
-- STM32CubeMX
 - STM32CubeProgrammer
 - u-blox u-center
 
@@ -15,28 +13,13 @@ STM32 tools:
 https://www.st.com/en/development-tools/stm32-software-development-tools.html
 ```
 
-## Import
 
-1. Open STM32CubeIDE.
-2. Select a workspace.
-3. Go to `File` -> `Import`.
-4. Choose `Existing Projects into Workspace`.
-5. Select this repository folder.
-6. Import the detected project.
 
-## Build
-
-In STM32CubeIDE:
-
-1. Select the project.
-2. Click the hammer icon, or use `Project` -> `Build Project`.
-3. Confirm the build finishes without errors.
-
-*IMPORTANT: the `BOOT0` jumper pad on the STM32 board must be bridged in order for .ELF firmware build to be flashed via USB-C in STM32CubeProgrammer. It must be opened to run program on STM32. Recommend install of 2 wires or a switch to simplify multiple flashes of the board.
+*IMPORTANT: the `BOOT0` jumper pad on the STM32 board must be bridged in order for .ELF firmware build to be flashed via USB-C in STM32CubeProgrammer. It must be opened to run program on STM32. Recommend use of ST-LINK V2 to flash firmware.
 
 ## Flash
 
-Use STM32CubeIDE run/debug, or STM32CubeProgrammer with the generated `.elf`, `.hex`, or `.bin`.
+
 
 ## SD Card Setup
 
