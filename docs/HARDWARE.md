@@ -25,10 +25,9 @@
 
 ## Power Notes
 
-- OLED module may require `5V` on `VDD`, depending on the breakout.
 - HC-05 breakout `VCC` should usually be powered from `5V` if it includes an onboard regulator.
 - UART logic is 3.3V.
-- Share ground between STM32, F9P, OLED, HC-05, and correction radio.
+- Share ground between STM32, F9P, OLED, HC-05, and Sik radio.
 - Avoid tying separate 3.3V regulator outputs together unless you know the board power design.
 
 ## Button
