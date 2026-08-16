@@ -158,7 +158,7 @@ Current CSV fields:
 - u-blox u-center
 
 
-## Documentation
+## Setup Guide
 
 - [Hardware wiring](docs/HARDWARE.md)
 - [F9P rover configuration](docs/F9P_ROVER_CONFIGURATION.md)
