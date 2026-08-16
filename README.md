@@ -38,7 +38,7 @@ Rover can be controlled/interfaced with using the companion [Android App](https:
   
   <img src="assets/OLED.avif" alt="OLED" width="200">
   
-- HC-05 Bluetooth serial module
+- HC-05 Bluetooth serial module (optional)
   
   <img src="assets/HC-05.avif" alt="HC-05" width="200">
   
@@ -46,11 +46,11 @@ Rover can be controlled/interfaced with using the companion [Android App](https:
   
   <img src="assets/SANDISK.jpg" alt="SANDISK 16GB" width="200">
   
-- Momentary pushbutton
+- Momentary pushbutton (optional)
 
   <img src="assets/PUSHBUTTON.avif" alt="PUSHBUTTON" width="200"> 
   
-- RTK correction link, such as SiK radio
+- RTK correction link, such as SiK radio (optional)
 
   <img src="assets/SIK RADIO.avif" alt="SIK RADIO" width="200"> 
 
