@@ -152,7 +152,7 @@ Current CSV fields:
 - `carrier=2` means RTK fixed
 
 
-## Required Tools
+## Required Programs
 
 - STM32CubeProgrammer
 - u-blox u-center
