@@ -46,7 +46,7 @@ For real survey point collection, aim for `carrier=2`.
 
 ## Correction Input
 
-The rover F9P should receive RTCM corrections directly from the F9P base over a separate correction link, such as SiK radio. This occurs directly between F9P boards when one is configured as a base and one is configured as a rover in ucenter.
+The rover F9P should receive RTCM corrections directly from the F9P base over a separate correction link, such as SiK radio. This occurs directly between F9P boards when one is configured as a `base` and one is configured as a `rover` in ucenter.
 
 Typical base RTCM messages:
 
