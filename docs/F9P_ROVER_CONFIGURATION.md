@@ -8,14 +8,14 @@ The STM32 expects the F9P UART connected to `USART1` to run at:
 460800 baud
 ```
 
-Required output on this UART:
+Required output on this UART (enable them in `CFG-PRT`):
 
 - UBX raw/logging stream
 - `UBX-NAV-PVT`
 - `UBX-NAV-HPPOSLLH`
 - Lean NMEA for SW Maps pass-through
 
-Recommended NMEA:
+Recommended NMEA (enable them in `CFG-MSG`):
 
 - `GGA`
 - `RMC`
